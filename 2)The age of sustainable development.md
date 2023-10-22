@@ -48,7 +48,7 @@
 
 ### WEEK-3:A Short History of Economic Development (100% score)
 
-**1)** roughly 18-24 months
+**1)** roughly 18-24 months.
 **2)** Moore
 **3)**Railway, Steel; Information Technology
 **4)** Africa
@@ -301,6 +301,6 @@
 
 ## Final Exam (📎)
 
-```text
+
 [For Final Exam Quiz; Click here](final.pdf)
-```
+
